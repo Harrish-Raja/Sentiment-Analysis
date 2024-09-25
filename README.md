@@ -1,6 +1,3 @@
-Sure! Here’s a more streamlined README without the cloning process:
-
----
 
 # YouTube Comment Sentiment Analysis
 

@@ -1,5 +1,6 @@
-YouTube Comment Sentiment Analysis
-Overview
+**YouTube Comment Sentiment Analysis**
+*Overview*
+
 This project analyzes the sentiment of YouTube comments, classifying them as positive, negative, or neutral using natural language processing techniques. It aims to provide insights into audience reactions and opinions.
 
 Features
